@@ -4,7 +4,7 @@
 
 **[Ladda ned OPS-installern](https://github.com/Alviun/ops-releases/releases/latest/download/OPS-Installera.exe)**
 
-Öppna filen och klicka på **Installera OPS**. Den lilla installern hämtar spelet och startaren åt dig. Under tiden kan du spela ett enkelt point-and-shoot.
+Öppna filen och klicka på **Installera**. Den lilla installern hämtar spelet och startaren åt dig. Under tiden kan du spela ett enkelt point-and-shoot.
 
 Windows 10/11, 64 bitar. Internet behövs för nedladdningen. Första installationen hämtar cirka 533 MB.
 
