@@ -1,21 +1,15 @@
 # One Point Strike
 
-Aktuell spelversion: **0.36.0** – separata rustningsdelar, ny kistloot och förbättrade bottar.
+Aktuell version: **0.36.1** – BR-prestanda, staplade kistor och förbättrad botloot.
 
-## Installera för Windows
+**[Ladda ned OPS-installern för Windows](https://github.com/Alviun/ops-releases/releases/latest/download/OPS-Installera.exe)**
 
-**[Ladda ned OPS-installern](https://github.com/Alviun/ops-releases/releases/latest/download/OPS-Installera.exe)**
+Den lilla nätinstallern innehåller Point & shoot och hämtar spelet. Windows 10/11, 64 bitar. Internet behövs.
 
-Den lilla nätinstallern (2,32 MB) med Point & shoot hämtar och installerar 0.36.0 direkt. Första installationen hämtar 563,48 MB.
+Redan installerat: öppna **OPS-startaren → Sök uppdatering → Installera & starta om**. Från 0.36.0 hämtas **21,67 MB**. Äldre installationer kan behöva hela paketet.
 
-Windows 10/11, 64 bitar. Internet behövs. Tidigare utskickade installers fungerar också.
+Alla deltagare behöver samma spelversion för multiplayer. Bygge OPS.PERF.20260911, nätprotokoll 14.
 
-## Uppdatera ett befintligt spel
+[Ändringar i 0.36.1](https://github.com/Alviun/ops-releases/releases/tag/v0.36.1) · [Alla utgåvor](https://github.com/Alviun/ops-releases/releases)
 
-Öppna **OPS-startaren** → **Sök uppdatering** → hämta → **Installera & starta om**. Från 0.35.0 hämtas **28,36 MB**. Saknas ett användbart grundpaket kan fullpaketet på 558,83 MB behövas.
-
-Alla i en multiplayer-match behöver samma version. För 0.36.0 gäller nätprotokoll 13.
-
-[Ändringar i 0.36.0](https://github.com/Alviun/ops-releases/releases/tag/v0.36.0) · [Alla utgåvor](https://github.com/Alviun/ops-releases/releases)
-
-Det här är spelets nedladdningssida. Licensinformation för ingående komponenter följer med installationen.
+Licensinformation för ingående komponenter följer med installationen.
